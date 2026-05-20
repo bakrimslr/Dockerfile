@@ -1,0 +1,3 @@
+FROM axigen/axigen:latest
+    EXPOSE 25 465 143 993 110 995 80 443 9000 9443 7000
+    ```
